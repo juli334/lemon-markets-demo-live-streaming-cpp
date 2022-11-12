@@ -7,7 +7,7 @@
 
 #include "json.hpp"
 
-const std::string API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJsZW1vbi5tYXJrZXRzIiwiaXNzIjoibGVtb24ubWFya2V0cyIsInN1YiI6InVzcl9xeUhTTHJyZGRHWWRIcThWN0JWeGdIeGc0V3NWU0o4eU1CIiwiZXhwIjoxNjk5NjkwNTUyLCJpYXQiOjE2NjgxNTQ1NTIsImp0aSI6ImFwa19xeVBQTFRURERLZldmRlY4R2RSczhOMkJGUWpxMlduVktkIiwibW9kZSI6Im1hcmtldF9kYXRhIn0.TJeXeJrZLlB9TsUzy7csWzGezr9EWuS8ADWqFdzwlF8";//"YOUR-MARKET-DATA-API-KEY";
+const std::string API_KEY = "YOUR-MARKET-DATA-API-KEY";
 
 class authenticator {
 
